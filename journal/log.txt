@@ -1,0 +1,4 @@
+2015-08-13 09:00 Jouranl will caputre the thoughts and progress as the project advances.
+The jouranl contains tags which are prefixed with @ symbol. thus @kawish is a tag. It will allow us to search this journal entry by using the tag.
+
+2015-08-13 18:28 Started Journal
