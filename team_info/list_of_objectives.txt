@@ -1,0 +1,50 @@
+﻿This is a list being brainstormed for deciding the objectives of Kawish project.
+
+
+We will list all suggestions here and then prioritize by consensus.
+
+
+Our Target Audience and Their Environment
+
+
+(Comment, add or disagree as you like, Use a different color for comment. )
+
+
+Our target is Pakistani school/college children (possible university students). Some of the reasons were given in our blog. Here are some of the constraints imposed by the environment.
+
+
+1- Limited resources: Most children won’t have internet access.
+2- Language Barriers: Most children won’t be able to benefit from Khan academy lesson which are in English. 
+3- We want children to think better but we also do not want to ignore the importance of better grades. Grades are an indication of performance.
+
+
+
+
+Suggested Objectives So far:
+
+
+1- Inspire Students to learn by showing them what they can do.
+
+
+2- Build a library of lessons in languages easily accessible to students
+
+
+3- Deliver video lessons to schools and make them accessible
+
+
+3- Improve quality of existing learning materials
+
+
+4- Build a community of content generators for lectures
+
+
+5- Build lecture about syllabus that encourage students to understand instead of memorizing
+
+
+6- Build Khan Academy Style Academy
+
+
+7- Spread science as a way of thinking.
+
+
+8- Supplement teachers or substitute them
