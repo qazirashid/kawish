@@ -1,4 +1,18 @@
 2015-08-13 09:00 Jouranl will caputre the thoughts and progress as the project advances.
 The jouranl contains tags which are prefixed with @ symbol. thus @kawish is a tag. It will allow us to search this journal entry by using the tag.
 
+2015-08-13 09:00 we should start building @website.
+A minimalist website that is useful but does not overwhelm.
+
+2015-08-13 09:00 @task decide a @host for @website.
+I have explored Google Cloud and Amazon Web Services. Google Cloud seems cheaper. Discuss with @team to get their opinion.
+
+2015-08-13 09:00 @task create a @skills @matrix for team.
+Each team member who is willing to contribute will list his skills and the time he/she can spend.
+
+2015-08-13 09:00 @task--- write a @blog discussing what is already there and what is missing that we will cover.
+
 2015-08-13 18:28 Started Journal
+
+2015-08-13 19:05 We need to encourage @team and set up @guidelines of them.
+They cannot contribute because they don't know how to contribute.
