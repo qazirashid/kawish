@@ -37,3 +37,16 @@ It seems to have a lot of content organzised for 9th, 10th and FA/FSc students. 
 
 2015-08-13 20:59 : sabaq.pk has even more videos than maktab.
 Matkab shows some videos that are taken from Sabaq. Moreover, all videos on sabaq.pk are free and can be watched without logging in. This is a really nice site and makes me question whether we really need to have our own site. Sabaq offers a full course DVD for different courses for RS 300. It seems a bit pricy but they do not charge anything for online viewing so I suppose their cost of producing DVDs must be hight. @abid has met the founder of sabaq and discussed with him. He has shown his willingness that the content of those lessons can be used freely by other sites, modified and redistributed.
+
+2015-08-13 21:07 : @khan academy also has an initiative where its videos,
+ which are originally in English, can be dubbed in other languages.
+
+On @youtube we can find urdu version of Khan academy lessons. This also seems
+a great initiative. it seems we have to do very little then.
+Probably we should link to these lessons and then look in other directions, for example, other lessons formats.
+One thing I have noticed is that all these lessons (Maktab, Sabaq, khan) are based on a @blackboard style of lesson.
+This style is not bad but since this style of content is already avaialbe in most cases, why should we look at other syles
+of lessons, for example, animated lessons. So I'll look at @animation as well.
+
+2015-08-13 21:16 : @khan academy has a @youtube channel .
+https://www.youtube.com/user/KhanAcademyUrdu/playlists that contains all lessons of khan acaedmy translated in urdu. They also contain subtitles. So I think khan academy has certainly seriously thought about provding content in other languages and has delivered it. What we perhaps need is to look at other forms of lesson or how to make lessons more engaging or interesting. or hopefully khan academy will do that too and we can focuson on distribution problem.
