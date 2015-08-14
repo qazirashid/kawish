@@ -50,3 +50,6 @@ of lessons, for example, animated lessons. So I'll look at @animation as well.
 
 2015-08-13 21:16 : @khan academy has a @youtube channel .
 https://www.youtube.com/user/KhanAcademyUrdu/playlists that contains all lessons of khan acaedmy translated in urdu. They also contain subtitles. So I think khan academy has certainly seriously thought about provding content in other languages and has delivered it. What we perhaps need is to look at other forms of lesson or how to make lessons more engaging or interesting. or hopefully khan academy will do that too and we can focuson on distribution problem.
+
+2015-08-14 22:19 : had a meeting with @Abid.
+We discussed next steps for @website, mainly to decide layout, roles and functionality for each role. we thought some basics about @workflows. The we discussed @delivery. We thought of starting a @pilot project. We will build a set of DVDs and make it available to those who have very little access. The details are in mintues of meeting.
