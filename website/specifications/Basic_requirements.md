@@ -1,4 +1,9 @@
-###Terms:
+### Scope
+This document contains the major requirements for kawish website. 
+The website layout and workflows will be put in other documents.
+
+
+###Terminology:
 
 #### Student: 
 The user of website who is interested in watching or downloading video lessons.
@@ -17,12 +22,12 @@ The adminstrator of the website who will maintain the site and will reject unsui
 The content of the website, mainly referring to videos.
 
 
-###Abbreviation:
+### List of abbreviations:
 
-####BR:    Basic Requirement
-####S:     Source
+####BR:                              Basic Requirement
+####S:                               Source
 
-## Requirements
+## Specification of Requirements
 
 ####BR 1:  
 The webistes home page should be very simple with minimal content. First page should not overwhelm the visitor. [S: Yasir]
