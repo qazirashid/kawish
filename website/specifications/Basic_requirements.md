@@ -45,8 +45,13 @@ The lesson content on the website will have a libral license for free sharing on
 ####BR 7: 
 The content classification scheme for school students will be based on the year of study followed by subject of study, followed 
 by chapter, followed by topic. [S:Tufail]
-####BR 8: 
+####BR 8a: 
 The content on website should be easy to search using keywords. [S: Qazi]
+####BR 8b: 
+The website should be search engine friendly. 
+The search engine should easily navigate and index the content on the website. 
+Pages should be optimized for search engines. [S: Qazi]
+
 ####BR 9:
 The website will have any easy to use interface for teachers to enable crowd sourcing. [S: Zeeshan]
 ####BR 10:
@@ -81,7 +86,6 @@ video should be playable on major platforms with additional installation of soft
  Alternate formats can be .ogg or other more suitable ones [S: Qazi]
 
 
-
 #### BR 19: 
 Visitors should be able leave feedback about their experience using a simple to use interface.
 The visitor should choose to leave back and not be asked to do so. [S: Qazi]
@@ -93,15 +97,23 @@ The website will not open any popup windows unless specifically required in the 
 #### BR 21:
 Visitors should have a simple interface to suggest links to content hosted on other sites. [S: Qazi]
 
-#### BR 21:
+#### BR 22:
 Teachers must sign up and then log in to uplaod content. No content uploads are allowed by other visitors. [S: Qazi]
 
-#### BR 22: 
+#### BR 23: 
 The website should feel responsive to the user. The user should not wait more than 2 seconds after clicking. [S: Qazi]
 
-#### BR 23:
+#### BR 24:
 In case the website hosts videos, the steaming video encoding should be such that it minimizes the bandwidth use. [S: Qazi] 
 
+#### BR25:
+The site must comply with the applicable laws. 
+For example, a visitor from Europe must be informed (by law)if the site is using cookies. [S: Qazi] 
+
+#### BR 26:
+
+The coding of website must conform to standards. 
+The code should be valid HTML, XML, CSS, or Javascript as per W3C specifications.  [S: Qazi]
 
 
 #### BR ***: 
