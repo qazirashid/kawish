@@ -4,87 +4,117 @@
 We have received some feedback after floating the idea.
 Here we collect the feedback for reflection and continuous improvement.
 
+Tufail Khan: I personally can develop multimedia material (both in English and Urdu) for
+Physics at metric and FSc levels. I may need time for this though. 
+But i assure you of my full support and cooperation. Let me know if i can be of any help.
+Qazi: Also look at content already available so that you can get an idea of what other 
+people are doing in other countries.
 
-
-
-Tufail Khan: I personally can develop multimedia material (both in English and Urdu) for Physics at metric and FSc levels. I may need time for this though. But i assure you of my full support and cooperation. Let me know if i can be of any help.
-
-
-Qazi: Also look at content already available so that you can get an idea of what other people are doing in other countries.
-
-
-Tufail Khan: Yeah i am having idea of good courses and material available online. In fact i am already working on one such project (preparing material for and teaching university level Physics as a part time activity).
-
+Tufail Khan: Yeah i am having idea of good courses and material available online.
+In fact i am already working on one such project (preparing material for and teaching
+university level Physics as a part time activity).
 
 Tauseef A Khan:  Guys, idea is wonderful, but you can't solve algebra by just replacing xyz with abc...
-Having limited resources (digital media), I would rather suggest to polish the ones already in business (lets call them Tier 1), to encourage/enforce Tier 1 to go through a recurssive evaluation process of also meeting with "unpriviliged" (as your targetted audience) on the ground (let's call them Tier 2, and so on)...
+Having limited resources (digital media), I would rather suggest to polish the ones already 
+in business (lets call them Tier 1), to encourage/enforce Tier 1 to go through a recurssive 
+evaluation process of also meeting with "unpriviliged" (as your targetted audience) 
+on the ground (let's call them Tier 2, and so on)...
 
-
-You won't and you can't drag substantial audience (even if they desperately need it sitting in a deprived village) unless untill 3 key physiological terms get addressed:
+You won't and you can't drag substantial audience (even if they desperately need it sitting in
+a deprived village) unless untill 3 key physiological terms get addressed:
 1 - will i get overnight benefit?
 2- will i get certified?
 3- what to invest (efforts, time, money etc), and what/how/who to guarantee profit (money, rank etc)...
 
-
 If you already have a clear/solid roadmap addressing these 3, consider a million $ aid in next few days...!!!
 
-
 Sameen Khan:  we are forgetting we've to provide it to those who can't afford it..
-Making educational material has never been problem, I can guarantee some one is already doing this.. but its delivering is...
-If we streamline processes to deliver it consistently & effectively to the needed ones.. then it'll be a success. And delivery requires social effort
+Making educational material has never been problem, I can guarantee some one is 
+already doing this.. but its delivering is...
+If we streamline processes to deliver it consistently & effectively to the needed ones.. 
+then it'll be a success. And delivery requires social effort
 
+Zeeshan Zia: Many individuals, especially those working with tuition academies, 
+are already generating content. We should start by collecting this content, 
+and creating a database of what is already available and identifying what 
+new content needs to be generated. The content generators can then find out 
+what is availabe, what is not available, what is available but is of low quality 
+and can be improved. 
 
-Zeeshan Zia: Many individuals, especially those working with tuition academies, are already generating content. We should start by collecting this content, and creating a database of what is already available and identifying what new content needs to be generated. The content generators can then find out what is availabe, what is not available, what is available but is of low quality and can be improved.
-Zeeshan has told us that their may be software frameworks for collecting this content and identifying tasks for next steps.
+Zeeshan has told us that their may be software frameworks for collecting this content 
+and identifying tasks for next steps.
 
 
 Yasir Latif: 
+Content hosting: I think that the best idea is to use as much as possible solutions
+that are already available. In that regard, video hosting on sites such as Youtube
+(unfortunately still not accessible in Pakistan), daily motion or any other 
+video sharing site is a good idea because they can be easily accessible from anywhere.  
+
+As for the website itself, we need a clear (minimalist?) layout which is easy to 
+follow and doesn't overwhelm the user with a lot of information of the first page. 
+Ideally, for the audience, it would just present the first level of organization 
+(See Content Organization), along with some ways of sharing the content using 
+(may be?) social media buttons (facebook, twitter, email, direct link etc) ?
 
 
-Content hosting: I think that the best idea is to use as much as possible solutions that are already available. In that regard, video hosting on sites such as Youtube (unfortunately still not accessible in Pakistan), daily motion or any other video sharing site is a good idea because they can be easily accessible from anywhere.  
+Content creation: Are we going to go with a khan academy style of lessons? 
+In that regard we need a screen capture software ( I assume there are plenty 
+of open source ones already out there, i will look for one). I was also thinking 
+that we can do like a standup white board type thing, like coursera. That would 
+need a not so bad camera + video editing software. On linux, openshot is a 
+good and simple (windows movie maker like) editor. 
 
 
-As for the website itself, we need a clear (minimalist?) layout which is easy to follow and doesn't overwhelm the user with a lot of information of the first page.  Ideally, for the audience, it would just present the first level of organization (See Content Organization), along with some ways of sharing the content using (may be?) social media buttons (facebook, twitter, email, direct link etc) ?
-
-
-Content creation: Are we going to go with a khan academy style of lessons? In that regard we need a screen capture software ( I assume there are plenty of open source ones already out there, i will look for one). I was also thinking that we can do like a standup white board type thing, like coursera. That would need a not so bad camera + video editing software. On linux, openshot is a good and simple (windows movie maker like) editor. 
-
-
-Content organization: This is the most important thing in my view. Content needs to be clearly classified so it is easy to find and access. It also depends on the granularity of the content but we can start by arranging this by academic years (8th, 9th, 10th, FSc Part I, Part II and so on) and then by subject. 
-
+Content organization: This is the most important thing in my view. 
+Content needs to be clearly classified so it is easy to find and access. 
+It also depends on the granularity of the content but we can start by 
+arranging this by academic years (8th, 9th, 10th, FSc Part I, Part II and so on) and then by subject. 
 
 Content licensing? Creative Commons NC-SA. 
+Lastly, we need to decide who is going to address what part of the content
+so that we don’t have effort wasted by duplication. 
 
+(Idea): Effective communication of ideas  would require using language at a level
+the does not pose any barriers itself. On the other hand, at least for FSc level, 
+(may be I am wrong but) all testing is done in English. So we need to find out what 
+would be the best approach to address the language issue? All Urdu, all English 
+(I don’t think thats a good idea) or a mixture of both.  
 
-Lastly, we need to decide who is going to address what part of the content so that we don’t have effort wasted by duplication. 
+(idea) Subtitles? That is an extra layer of added effort but in most cases it 
+is helpful as the students can pause and read what the teacher is saying if 
+they can not understand a word, a term or a sentence. 
+We can use http://www.amara.org/en/ for crowd sourcing subtitles once we gather some momentum. 
 
-
-
-
-(Idea): Effective communication of ideas  would require using language at a level the does not pose any barriers itself. On the other hand, at least for FSc level, (may be I am wrong but) all testing is done in English. So we need to find out what would be the best approach to address the language issue? All Urdu, all English (I don’t think thats a good idea) or a mixture of both.  
-
-
-(idea) Subtitles? That is an extra layer of added effort but in most cases it is helpful as the students can pause and read what the teacher is saying if they can not understand a word, a term or a sentence. We can use http://www.amara.org/en/ for crowd sourcing subtitles once we gather some momentum. 
-
-
-(idea, for later on): We need to do a viral video to get the idea to spread, to make it cool so that people would share it with others.   
-
-
-
-
+(idea, for later on): We need to do a viral video to get the idea to spread, 
+to make it cool so that people would share it with others.   
 Tool for collaboration : https://trello.com/tour (I really like it!)
-
-
-(Idea) Some thoughts regarding the content organization 
-
+(Idea) Some thoughts regarding the content organization. 
 
 Tufail Khan:
 
+From Yasir’s suggestion about classification of the content it seems like we are 
+targeting audience (students) who are studying particularly in government schools and colleges. 
+That’s why it may be one of the possible ways to arrange the material by 
+academic years (e.g. 8th - 10th, FSc Parts I $ II). 
+Then we further classify them according to subjects (Physics, Chemistry, Biology etc.).
+This is important to decide at this early stage of the project so that content and material 
+can later be developed and uploaded by team members/volunteers accordingly. 
 
-From Yasir’s suggestion about classification of the content it seems like we are targeting audience (students) who are studying particularly in government schools and colleges. That’s why it may be one of the possible ways to arrange the material by academic years (e.g. 8th - 10th, FSc Parts I $ II). Then we further classify them according to subjects (Physics, Chemistry, Biology etc.). This is important to decide at this early stage of the project so that content and material can later be developed and uploaded by team members/volunteers accordingly. 
+
+Assuming that the team members, by consensus, would agree to the above idea 
+about content organization, the next step would be to gather the required information 
+about the approved syllabus for each class/year. Unfortunately there is nothing available 
+on the Peshawar and Lahore boards’ websites. Peshawar board only offers model papers for
+SSC (classes 9th and 10th) annual exams. Therefore the only way left to get to know 
+about these syllabi is from textbooks approved by the respective boards. 
+I am not sure if their exact textbooks either in Urdu or in English are available 
+anywhere online for us to access or download. We will need to seek for help from 
+local team members in this regard. They will need to scan at least the table of 
+contents part out of these textbooks. 
 
 
-Assuming that the team members, by consensus, would agree to the above idea about content organization, the next step would be to gather the required information about the approved syllabus for each class/year. Unfortunately there is nothing available on the Peshawar and Lahore boards’ websites. Peshawar board only offers model papers for SSC (classes 9th and 10th) annual exams. Therefore the only way left to get to know about these syllabi is from textbooks approved by the respective boards. I am not sure if their exact textbooks either in Urdu or in English are available anywhere online for us to access or download. We will need to seek for help from local team members in this regard. They will need to scan at least the table of contents part out of these textbooks. 
-
-
-One good example of content organization is given here. They provide syllabi, question papers, marking schemes etc. for GCSE O/A-levels subject-wise (see e.g. that of O-level Physics here here). In our case it should be a similar classification linked to animations and/or video lectures developed by the team members.
+One good example of content organization is given here. They provide syllabi, 
+question papers, marking schemes etc. for GCSE O/A-levels subject-wise 
+(see e.g. that of O-level Physics here here). In our case it should be a similar 
+classification linked to animations and/or video lectures developed by the team members.
