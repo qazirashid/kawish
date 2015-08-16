@@ -29,6 +29,7 @@ The content of the website, mainly referring to videos.
 
 ## Specification of Requirements
 
+
 ####BR 1:  
 The webistes home page should be very simple with minimal content. First page should not overwhelm the visitor. [S: Yasir]
 ####BR 2:  
@@ -63,35 +64,49 @@ The website will suggest lesson development tools to lesson developer but will n
 #### BR 15:
 The website should be mobile friendly. The layout should be adopted depending on the device in use. 
 See Twitter Bootstrap javascript library for example.  [S: Qazi]
-#### BR 16: 
 
 #### BR 16: 
 The hosted content (videos) will be playable in all major browsers (IE, Safari, Chrome, Firefox). 
-It is suggested that played preferrably using HTML5 video.
+[Suggestion] It is suggested that played preferrably using HTML5 video.
 Flash will be used only when HTML5 video is not available.[S: Qazi]
 
-#### BR 17
+#### BR 17:
+Visitors should be able to download website content to their computers. [S: Qazi] 
+
+#### BR 18:
+The videos when downloaded should be easily playable without the need of new encoder. The downloaded
+video should be playable on major platforms with additional installation of software.
+
 [Suggestion] The vidoes uploaded by the contributors will be converted to .webm encoding.
  Alternate formats can be .ogg or other more suitable ones [S: Qazi]
 
-#### BR 18:
-Visitors should be able to download website content to their computers. [S: Qazi] 
+
 
 #### BR 19: 
-Visitors should be able to leave feedback about their experience. No message should be popped for feedback. 
+Visitors should be able leave feedback about their experience using a simple to use interface.
 The visitor should choose to leave back and not be asked to do so. [S: Qazi]
 
-#### BR 20:
-Visitors should be able to suggest links to content hosted on other sites. [S: Qazi]
+#### BR20
+The website will not open any popup windows unless specifically required in the design.
+ 
+
+#### BR 21:
+Visitors should have a simple interface to suggest links to content hosted on other sites. [S: Qazi]
 
 #### BR 21:
 Teachers must sign up and then log in to uplaod content. No content uploads are allowed by other visitors. [S: Qazi]
 
 #### BR 22: 
+The website should feel responsive to the user. The user should not wait more than 2 seconds after clicking. [S: Qazi]
+
+#### BR 23:
+In case the website hosts videos, the steaming video encoding should be such that it minimizes the bandwidth use. [S: Qazi] 
+
+
+
+#### BR ***: 
 Admins should be able to reject/delete a specific piece of content if it violates a clearly defined rule in the rules document.
 The teacher/uploader should be informed about the specific reason for rejection of a specific piece of content.[S: Qazi]
-
-
 
  
 
