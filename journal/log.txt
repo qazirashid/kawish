@@ -53,3 +53,16 @@ https://www.youtube.com/user/KhanAcademyUrdu/playlists that contains all lessons
 
 2015-08-14 22:19 : had a meeting with @Abid.
 We discussed next steps for @website, mainly to decide layout, roles and functionality for each role. we thought some basics about @workflows. The we discussed @delivery. We thought of starting a @pilot project. We will build a set of DVDs and make it available to those who have very little access. The details are in mintues of meeting.
+
+2015-08-17 18:36 I was thinking about the @organization of @website and was not sure how to do it.
+The @organization of @class syllabus related lessons seems fairly decided already,
+so there isn't much to do.
+
+2015-08-17 18:44 We need database to store video meta data so that we can easily search videos according to many possible criteria.
+If we organize course videos in the structure of 
+text-book-board --> class ---> subject ---> chapter
+then it should be easy to search , say all videos for a given class. say  9th. or all videos for a subject, say Chemistry.
+
+What would be more useful is that we store the videos in this file hierarchy and then put their meta data in a database.
+The metadata should contain tags for each video that describe the content of video and its position in hierarchy. 
+Then we should use match the tags to seach for videos of interest.
