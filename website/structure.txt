@@ -1,0 +1,35 @@
+./
+├── structure.txt
+├── student
+│   ├── Balochistan
+│   ├── KP
+│   ├── Punjab
+│   │   ├── 10th
+│   │   │   ├── Biology
+│   │   │   ├── Chemistry
+│   │   │   ├── English
+│   │   │   ├── Geography
+│   │   │   ├── Mathematics
+│   │   │   ├── Physics
+│   │   │   │   ├── chapter1
+│   │   │   │   │   ├── lesson1
+│   │   │   │   │   ├── lesson2
+│   │   │   │   │   ├── lesson3
+│   │   │   │   │   └── lesson4
+│   │   │   │   ├── chapter2
+│   │   │   │   ├── chapter4
+│   │   │   │   ├── chapter5
+│   │   │   │   ├── chapter6
+│   │   │   │   └── chapter7
+│   │   │   └── Urdu
+│   │   ├── 5th
+│   │   ├── 6th
+│   │   ├── 7th
+│   │   ├── 8th
+│   │   ├── 9th
+│   │   ├── FA
+│   │   └── FSc
+│   └── Sindh
+└── teacher
+
+27 directories, 5 files
