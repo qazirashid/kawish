@@ -59,10 +59,16 @@ The @organization of @class syllabus related lessons seems fairly decided alread
 so there isn't much to do.
 
 2015-08-17 18:44 We need database to store video meta data so that we can easily search videos according to many possible criteria.
-If we organize course videos in the structure of 
+If we organize course videos in the structure of
 text-book-board --> class ---> subject ---> chapter
 then it should be easy to search , say all videos for a given class. say  9th. or all videos for a subject, say Chemistry.
 
 What would be more useful is that we store the videos in this file hierarchy and then put their meta data in a database.
-The metadata should contain tags for each video that describe the content of video and its position in hierarchy. 
+The metadata should contain tags for each video that describe the content of video and its position in hierarchy.
 Then we should use match the tags to seach for videos of interest.
+
+2015-08-18 21:25 Today I looked at options for backend of kawish @website.
+I think it is better to use a well know @PHP @framework instead of using some less known @python framework.
+I'll ask @abid whether to use a @CMS or a @PHP framework. 
+CMS will not give us much flexibility but if needs our current requirements then why not use it.
+We can build an alternate version slowly in a framework later on.
