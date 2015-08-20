@@ -69,6 +69,11 @@ Then we should use match the tags to seach for videos of interest.
 
 2015-08-18 21:25 Today I looked at options for backend of kawish @website.
 I think it is better to use a well know @PHP @framework instead of using some less known @python framework.
-I'll ask @abid whether to use a @CMS or a @PHP framework. 
+I'll ask @abid whether to use a @CMS or a @PHP framework.
 CMS will not give us much flexibility but if needs our current requirements then why not use it.
 We can build an alternate version slowly in a framework later on.
+
+2015-08-20 19:11 I was watching some videos for @PHP @framework called @laravel.
+It seems ok. 
+Altough I personally would have liked python backend, PHP is not a bad choice
+since other developer know it better and will develop more productively.
