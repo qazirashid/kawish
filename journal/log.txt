@@ -77,3 +77,5 @@ We can build an alternate version slowly in a framework later on.
 It seems ok. 
 Altough I personally would have liked python backend, PHP is not a bad choice
 since other developer know it better and will develop more productively.
+
+2016-05-18 08:40 Writing a log after a long time. The web site is online. it is static and is sufficient for our purpose. It is hosted for free by github.
